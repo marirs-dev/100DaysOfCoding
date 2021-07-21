@@ -130,7 +130,7 @@ e.g. When you hit **run**, this is what should happen:
 1. There are 365 days in a year, 52 weeks in a year and 12 months in a year.
 2. Try copying the example output into your code and replace the relevant parts so that the sentence is formated the same way.
 
-Project 2: Tip Calculator
+# Project 2: Tip Calculator
 * If the bill was $150.00, split between 5 people, with 12% tip.
 * Each person should pay (150.00 / 5) * 1.12 = 33.6
 * Format the result to 2 decimal places = 33.60  
